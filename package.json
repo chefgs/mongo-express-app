@@ -1,0 +1,23 @@
+{
+  "name": "mongo-express-app",
+  "version": "1.0.0",
+  "description": "MongoDB Express Application",
+  "main": "server.js",
+  "scripts": {
+    "test": "node server.js",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/chefgs/mongo-express-app.git"
+  },
+  "author": "Saravanan Gnanaguru",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/chefgs/mongo-express-app/issues"
+  },
+  "homepage": "https://github.com/chefgs/mongo-express-app#readme",
+  "dependencies": {
+    "mongoose": "^6.1.5"
+  }
+}
